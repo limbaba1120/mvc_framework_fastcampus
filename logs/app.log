@@ -1,0 +1,12 @@
+2024-09-06 15:20:57.458 [main] INFO  org.example.WebApplicationServer - configuring app with basedir: /Users/keonwoolim/Documents/kernel360/lecture/backend/mvc-practice/./webapps
+2024-09-06 15:33:12.799 [main] INFO  org.example.WebApplicationServer - configuring app with basedir: /Users/keonwoolim/Documents/kernel360/lecture/backend/mvc-practice/./webapps
+2024-09-06 15:34:28.213 [main] INFO  org.example.WebApplicationServer - configuring app with basedir: /Users/keonwoolim/Documents/kernel360/lecture/backend/mvc-practice/./webapps
+2024-09-06 15:34:52.064 [main] INFO  org.example.WebApplicationServer - configuring app with basedir: /Users/keonwoolim/Documents/kernel360/lecture/backend/mvc-practice/./webapps
+2024-09-06 16:47:31.151 [main] INFO  org.example.WebApplicationServer - configuring app with basedir: /Users/keonwoolim/Documents/kernel360/lecture/backend/mvc-practice/./webapps
+2024-09-06 16:48:34.970 [main] INFO  org.example.WebApplicationServer - configuring app with basedir: /Users/keonwoolim/Documents/kernel360/lecture/backend/mvc-practice/./webapps
+2024-09-06 16:49:07.628 [main] INFO  org.example.WebApplicationServer - configuring app with basedir: /Users/keonwoolim/Documents/kernel360/lecture/backend/mvc-practice/./webapps
+2024-09-06 16:49:31.788 [main] INFO  org.example.WebApplicationServer - configuring app with basedir: /Users/keonwoolim/Documents/kernel360/lecture/backend/mvc-practice/./webapps
+2024-09-06 17:02:08.614 [main] INFO  org.example.WebApplicationServer - configuring app with basedir: /Users/keonwoolim/Documents/kernel360/lecture/backend/mvc-practice/./webapps
+2024-09-06 17:37:16.956 [main] INFO  org.example.WebApplicationServer - configuring app with basedir: /Users/keonwoolim/Documents/kernel360/lecture/backend/mvc-practice/./webapps
+2024-09-07 15:34:33.584 [main] INFO  org.reflections.Reflections - Reflections took 26 ms to scan 1 urls, producing 5 keys and 11 values
+2024-09-07 15:53:25.206 [main] INFO  org.reflections.Reflections - Reflections took 33 ms to scan 1 urls, producing 5 keys and 11 values

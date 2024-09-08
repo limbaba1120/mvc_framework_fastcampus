@@ -1,0 +1,40 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // 패스워드 생성 라이브러리
+    implementation 'org.passay:passay:1.6.1'
+    //embed 톰켓 dependency 추가
+    implementation 'org.apache.tomcat.embed:tomcat-embed-core:10.1.12'
+    implementation 'org.apache.tomcat.embed:tomcat-embed-jasper:10.1.12'
+    //servlet dependency 추가 (자바를 이용해서 web application 만들겠다
+    implementation 'javax.servlet:javax.servlet-api:4.0.1'
+    implementation 'javax.servlet:jstl:1.2'
+    // reflection
+    implementation 'org.reflections:reflections:0.10.2'
+    //log dependency
+    implementation 'ch.qos.logback:logback-classic:1.2.3'
+
+    // HikariCP
+    implementation 'com.zaxxer:HikariCP:5.0.1'
+    // JDBC
+    implementation 'org.springframework:spring-jdbc:5.3.22'
+
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+
+    testImplementation 'org.assertj:assertj-core:3.23.1'
+    testImplementation 'com.h2database:h2:2.1.214'
+}
+
+test {
+    useJUnitPlatform()
+}
